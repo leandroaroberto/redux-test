@@ -1,0 +1,95 @@
+{    
+   "questions": [
+        {
+            "id": 1,
+            "pageType": "QUESTION",
+            "next": 2,
+            "title": "1- Engasgo total",
+            "question": "1- O que vejo e percebo quando o bebê tem um engasgo total?",
+            "picture": "EngasgoParcial.png",
+            "answers" : [
+                {
+                    "id" : 1,
+                    "text": "Ele está ofegante e respirando rápido",
+                    "isCorrect": true
+                },
+                {
+                    "id" : 2,
+                    "text": "Ele está falando uma lingua estranha",
+                    "isCorrect": false
+                }
+            ],
+            "summary" : {
+                "id": 1,
+                "text": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "picture": "EngasgoParcial.png"
+            }
+        },
+        {
+            "id": 2,
+            "pageType": "QUESTION",
+            "next": 3,
+            "title": "2- Engasgo total",
+            "question": "2- O que devo fazer?",
+            "picture": "EngasgoTotal.png",
+            "answers" : [
+                {
+                    "id" : 3,
+                    "text": "Nada, este é um comportamento normal para essa fase da vida.",
+                    "isCorrect": false
+                },
+                {
+
+                    "id" : 4,
+                    "text": "Segure o seu bebê no seu colo em posição confortável virado para você.",
+                    "isCorrect": true
+                }
+            ],
+            "summary" : {
+                "id": 2,
+                "text": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "picture": "EngasgoTotal.png"
+            }
+        },
+        {
+            "id": 3,
+            "pageType": "QUESTION",
+            "next": 4,
+            "title": "3- Engasgo total",
+            "question": "3- Questão teste?",
+            "picture": "BebeInconsciente.png",
+            "answers" : [
+                {
+                    "id" : 5,
+                    "text": "Opção certa",
+                    "isCorrect": true
+                },
+                {
+
+                    "id" : 6,
+                    "text": "Opção errada",
+                    "isCorrect": false
+                }
+            ],
+            "summary" : {
+                "id": 3,
+                "text": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "picture": "BebeInconsciente.png"
+            }
+        },
+        {
+            "id": 4,
+            "pageType": "END_OF_GAME",
+            "next": 4,
+            "title": "Fim de jogo",
+            "question": "Seu total de pontos foi:",
+            "picture": "",
+            "answers" : [],
+            "summary" : {
+                "id": 4,
+                "text": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            }
+        }
+    ]    
+}
+    

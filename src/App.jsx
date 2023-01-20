@@ -1,7 +1,9 @@
-import Counter from './components/Counter/Counter'
+import { Counter } from './components/Counter/Counter'
 
+import json from './Api/questions.json'
 
 const App = () => {
+  console.log('API', json.questions)
   return (
     <div>
       <h1>
